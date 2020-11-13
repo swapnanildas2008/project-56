@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: cyan;
+}
+h1{
+    color:crimson;
+}
+hr{
+    height: 10px;
+    background-color: blue;
+}
